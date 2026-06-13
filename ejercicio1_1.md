@@ -7,3 +7,6 @@ Contenido de la modificacion 1 en main.
 
 ## Modificacion 2
 Contenido de la modificacion 2 en main.
+
+## Modificacion extra en main
+Este commit hace que main y apartado1 diverjan.
